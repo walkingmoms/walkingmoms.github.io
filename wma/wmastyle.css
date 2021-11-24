@@ -1,0 +1,79 @@
+a {
+    /*no underline*/
+    text-decoration: none;
+    color: #3C362A;
+}
+body {
+    font-family: 'Karla', sans-serif;
+}
+body nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* justify-content: center; */
+    padding: 0;
+    /* width: 50%; */
+    margin-left: auto;
+    margin-right: auto;
+}
+li {
+    padding-top: 1.6em;
+}
+
+li a {
+    color: #172121;
+    font-size: 10pt;
+}
+main {
+    /* aligning home buttons to center */
+    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+align-items: center;
+justify-content: center;
+width: 350px;
+margin-left: auto;
+margin-right: auto;
+}
+nav {
+    background-color: #ACC18A;
+}
+/* logo */
+#navimg {
+    height: 90px;
+}
+
+ul {
+    /* no bullets */
+    list-style-type: none;
+}
+@media only screen and (min-device-width: 768px) {
+
+nav #navimg {
+    height: 60px;
+}
+/* centering menu around logo */
+li {
+    padding-top: 1em;
+}
+
+nav li a {
+    font-size: 12pt;
+}
+}
+@media only screen and (min-width: 62.5em) {
+body #navimg {
+    height: 200px;
+}
+li {
+    padding-top: 6em;
+}
+li a {
+    font-size: 14pt;
+}
+/* main button {
+    margin-left: 40%;   
+} */
+}
+

@@ -1,0 +1,95 @@
+a {
+    /*no underline*/
+    text-decoration: none;
+}
+#aboutus {
+    background-color: #A52422;
+    color: #EFF2C0;
+}
+body {
+    font-family: 'Karla', sans-serif;
+}
+button {
+    background-color: #A52422;
+    border: none;
+    width: 100px;
+}
+button a {
+    color: #EFF2C0;
+}
+li a {
+    color: #A52422;
+    font-size: 10pt;
+}
+main {
+    /* aligning home buttons to center */
+    /* margin-left: 10%; */
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+align-items: center;
+justify-content: center;
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+}
+/* logo */
+#navimg {
+    height: 50px;
+}
+section {
+    border: solid 1px #A52422;
+    margin: 2em;
+}
+ul {
+    /* no bullets */
+    list-style-type: none;
+}
+@media only screen and (min-device-width: 768px) {
+
+nav #navimg {
+    height: 60px;
+}
+body nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 0;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+
+    width: 150px;
+}
+/* centering menu around logo */
+li {
+    padding-top: 1em;
+}
+/* main button {
+    margin-left: 35%;   
+} */
+nav li a {
+    font-size: 12pt;
+}
+}
+@media only screen and (min-width: 62.5em) {
+body nav #navimg {
+    height: 120px;
+}
+button {
+    width: 200px;
+    padding: 1em;
+}
+li {
+    padding-top: 2.5em;
+}
+li a {
+    font-size: 14pt;
+}
+/* main button {
+    margin-left: 40%;   
+} */
+}
+
