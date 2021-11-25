@@ -16,6 +16,12 @@ body nav ul {
     margin-left: auto;
     margin-right: auto;
 }
+footer {
+    text-align: center;
+    margin-top: 20%;
+    padding: 0.5em;
+    background-color: #c56d89;
+}
 li {
     padding-top: 1.6em;
 }

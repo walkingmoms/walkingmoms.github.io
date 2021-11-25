@@ -18,8 +18,8 @@ button a {
     color: #EFF2C0;
 }
 li a {
-    color: #A52422;
     font-size: 10pt;
+    color: #EFF2C0;
 }
 main {
     /* aligning home buttons to center */
@@ -32,6 +32,10 @@ justify-content: center;
 width: 500px;
 margin-left: auto;
 margin-right: auto;
+}
+nav {
+    background-color: #A52422;
+    color: #EFF2C0;
 }
 /* logo */
 #navimg {
