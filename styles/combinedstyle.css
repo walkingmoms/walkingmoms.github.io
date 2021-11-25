@@ -29,7 +29,7 @@ main {
     text-align: center;
 align-items: center;
 justify-content: center;
-width: 300px;
+width: 200px;
 /* margin-left: auto; */
 margin-right: auto;
 padding-left: 2em;
@@ -71,7 +71,10 @@ button {
 
     width: 150px;
 }
-
+main {
+    width: 400px;
+    margin-left: auto;
+}
 /* centering menu around logo */
 li {
     padding-top: 1em;
