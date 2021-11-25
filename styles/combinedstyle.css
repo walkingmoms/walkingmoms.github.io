@@ -30,8 +30,9 @@ main {
 align-items: center;
 justify-content: center;
 width: 300px;
-margin-left: auto;
+/* margin-left: auto; */
 margin-right: auto;
+padding-left: 2em;
 }
 nav {
     background-color: #A52422;
@@ -46,6 +47,7 @@ nav {
 section {
     border: solid 1px #A52422;
     margin: 2em;
+    padding: 1em;
 }
 ul {
     /* no bullets */
@@ -69,6 +71,7 @@ button {
 
     width: 150px;
 }
+
 /* centering menu around logo */
 li {
     padding-top: 1em;
@@ -93,6 +96,11 @@ li {
 }
 li a {
     font-size: 14pt;
+}
+main {
+    width: 600px;
+    margin-left: auto;
+    padding-left: 0;
 }
 /* main button {
     margin-left: 40%;   
