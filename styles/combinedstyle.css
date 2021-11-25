@@ -29,13 +29,15 @@ main {
     text-align: center;
 align-items: center;
 justify-content: center;
-width: 500px;
+width: 300px;
 margin-left: auto;
 margin-right: auto;
 }
 nav {
     background-color: #A52422;
     color: #EFF2C0;
+    margin-left: auto;
+    margin-right: auto;
 }
 /* logo */
 #navimg {
