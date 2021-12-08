@@ -16,6 +16,12 @@ const parks = {
         "description": "The park is located in South Austin. The trail is crushed gravel. There are restrooms. The playground is very shaded by trees. There are two different playgrounds and 'musical instruments' to play with. There is a pit full of rocks that has sand equipment in it. There are also soccer fields",
         "image": "images/circlec.jpg",
         "key": "Circle-C"
+    },
+    "Pfluger-Park" : {
+        "name": "Pfluger Park",
+        "description" : "This mulch playground is located in downtown Pflugerville. There are multiple playscapes with swings and slides It has picnic tables, a pavilion, and a gazebo. They also have restrooms. There is a volleyball and a basketball court. This park has a paved walking trail that have access to a few other Pflugerville parks and Gilleland creek pool.",
+        "image": "images/pflugerpark.jpg",
+        "key": "Pfluger-Park"
     }
 };
 
