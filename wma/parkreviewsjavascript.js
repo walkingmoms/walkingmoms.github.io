@@ -19,7 +19,7 @@ const parks = {
     },
     "Pfluger-Park" : {
         "name": "Pfluger Park",
-        "description" : "This mulch playground is located in downtown Pflugerville. There are multiple playscapes with swings and slides It has picnic tables, a pavilion, and a gazebo. They also have restrooms. There is a volleyball and a basketball court. This park has a paved walking trail that have access to a few other Pflugerville parks and Gilleland creek pool.",
+        "description" : "This mulch playground is located in downtown Pflugerville. There are multiple playscapes with swings and slides It has picnic tables, a pavilion, and a gazebo. They also have restrooms. There is a volleyball and a basketball court. This park has a paved walking trail that have access to a few other Pflugerville parks and Gilleland creek pool..",
         "image": "images/pflugerpark.jpg",
         "key": "Pfluger-Park"
     }
