@@ -6,6 +6,10 @@ a {
 body {
     font-family: 'Karla', sans-serif;
 }
+.description {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 body nav ul {
     display: flex;
     flex-direction: row;
@@ -21,6 +25,10 @@ footer {
     margin-top: 20%;
     padding: 0.5em;
     background-color: #ACC18A;
+}
+.parkreviews img {
+    width: 200px;
+    padding: 2em;
 }
 li {
     padding-top: 1.6em;
@@ -63,7 +71,10 @@ nav #navimg {
 li {
     padding-top: 1em;
 }
-
+.parkreviews img {
+    width: 600px;
+    padding: 2em;
+}
 nav li a {
     font-size: 12pt;
 }
