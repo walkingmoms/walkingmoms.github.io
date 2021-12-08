@@ -13,7 +13,7 @@ const parks = {
     },
     "Circle-C": {
         "name": "Circle C",
-        "description": "The trail is crushed gravel. There are restrooms there. The playground is very shaded by trees. There are two different playgrounds and 'musical instruments' to play with. There is a pit full of rocks that has sand equipment in it. There are also soccer fields",
+        "description": "The park is located in South Austin. The trail is crushed gravel. There are restrooms. The playground is very shaded by trees. There are two different playgrounds and 'musical instruments' to play with. There is a pit full of rocks that has sand equipment in it. There are also soccer fields",
         "image": "images/circlec.jpg",
         "key": "Circle-C"
     }
