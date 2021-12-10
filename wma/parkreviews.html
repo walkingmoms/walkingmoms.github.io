@@ -46,11 +46,14 @@
             <div id="parks">
                 <h1> Explore Austin's parks</h1>
                 (click the names below) 
+                <div id ="names-grid">
                 {{#each parks}}
                 <div class="park">
                    <h2> <a href='?park={{key}}'>{{name}}</a> </h2>
+                   <img src="{{image}}">
                 </div>
                 {{/each}}
+            </div>
             </div>
         </template>
     </section>

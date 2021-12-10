@@ -24,10 +24,34 @@ footer {
     text-align: center;
     margin-top: 20%;
     padding: 0.5em;
-    background-color: #ACC18A;
+    background-color: #70b27e;
+}
+
+#names-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* border: 2px solid #acc18a; */
+    
+}
+  #names-grid img {
+      width: 200px;
+  }
+  .parkreviews {
+    border: 2px solid #70b27e;
 }
 .parkreviews img {
     width: 200px;
+    
+}
+.park {
+    padding: 2em;
+    border: 2px solid #BEDFC0;
+}
+.park h2 {
+    background-color: #70b27e;
+    border-radius: 25px;
+}
+.gear {
     padding: 2em;
 }
 li {
@@ -51,7 +75,7 @@ margin-left: auto;
 margin-right: auto;
 }
 nav {
-    background-color: #ACC18A;
+    background-color: #70b27e;
 }
 /* logo */
 #navimg {
@@ -61,6 +85,9 @@ nav {
 ul {
     /* no bullets */
     list-style-type: none;
+}
+#whatwedo img {
+    width: 200px;
 }
 @media only screen and (min-device-width: 768px) {
 
@@ -78,6 +105,9 @@ li {
 nav li a {
     font-size: 12pt;
 }
+#whatwedo img {
+    width: 400px;
+}
 }
 @media only screen and (min-width: 62.5em) {
 body #navimg {
@@ -88,6 +118,9 @@ li {
 }
 li a {
     font-size: 14pt;
+}
+#whatwedo img {
+    width: 600px
 }
 /* main button {
     margin-left: 40%;   
