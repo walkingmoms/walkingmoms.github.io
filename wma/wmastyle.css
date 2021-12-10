@@ -20,13 +20,28 @@ body nav ul {
     margin-left: auto;
     margin-right: auto;
 }
+#description {
+    padding: 2em;
+    border: 2px solid #70b27e;
+  
+}
 footer {
     text-align: center;
     margin-top: 20%;
     padding: 0.5em;
     background-color: #70b27e;
 }
-
+.gear {
+    padding: 2em;
+    border: 2px solid #BEDFC0;
+}
+.gear h2 {
+    background-color: #70b27e;
+    border-radius: 25px;
+}
+#parkreviews h1 {
+    background-color: #70b27e;
+}
 #names-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -36,9 +51,10 @@ footer {
   #names-grid img {
       width: 200px;
   }
-  .parkreviews {
-    border: 2px solid #70b27e;
-}
+  /* .parkreviews {
+border: 2px solid #70b27e;
+
+} */
 .parkreviews img {
     width: 200px;
     
@@ -51,9 +67,7 @@ footer {
     background-color: #70b27e;
     border-radius: 25px;
 }
-.gear {
-    padding: 2em;
-}
+
 li {
     padding-top: 1.6em;
 }
