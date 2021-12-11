@@ -20,25 +20,25 @@ const parks = {
     },
     "Walnut-Creek-Metropolitan" : {
         "name": "Walnut Creek Metropolitan",
-        "description" : "This mulch playground is located in downtown Pflugerville. There are multiple playscapes with swings and slides It has picnic tables, a pavilion, and a gazebo. They also have restrooms. There is a volleyball and a basketball court. This park has a paved walking trail that have access to a few other Pflugerville parks and Gilleland creek pool..",
+        "description" : "North Austin",
         "image": "images/walnutcreekmetroplayground.jpg",
         "key": "Walnut-Creek Metropolitan"
     },
     "Dick-Nichols" : {
         "name": "Dick Nichols",
-        "description" : "This mulch playground is located in downtown Pflugerville. There are multiple playscapes with swings and slides It has picnic tables, a pavilion, and a gazebo. They also have restrooms. There is a volleyball and a basketball court. This park has a paved walking trail that have access to a few other Pflugerville parks and Gilleland creek pool..",
+        "description" : "Located in South Austin",
         "image": "images/dicknichols.jpg",
         "key": "Dick-Nichols"
     },
     "Zilker" : {
         "name": "Zilker",
-        "description" : "This mulch playground is located in downtown Pflugerville. There are multiple playscapes with swings and slides It has picnic tables, a pavilion, and a gazebo. They also have restrooms. There is a volleyball and a basketball court. This park has a paved walking trail that have access to a few other Pflugerville parks and Gilleland creek pool..",
+        "description" : "Located in downtown Austin",
         "image": "images/zilkerpark.jpg",
         "key": "Zilker"
     },
     "Children-Alliance-Garden" : {
         "name": "Children's Alliance Garden",
-        "description" : "This mulch playground is located in downtown Pflugerville. There are multiple playscapes with swings and slides It has picnic tables, a pavilion, and a gazebo. They also have restrooms. There is a volleyball and a basketball court. This park has a paved walking trail that have access to a few other Pflugerville parks and Gilleland creek pool..",
+        "description" : "Located in downtown Austin",
         "image": "images/childrensalliance.jpg",
         "key": "Children-Alliance-Garden"
     }
