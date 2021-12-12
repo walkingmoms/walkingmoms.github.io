@@ -1,17 +1,17 @@
 const gears = {
-    "Bob-Strollers":
-    {
-        "name": "Bob strollers",
-        "description": "high quality strollers built for jogging ",
-        "image": "images/strollerclipart.png",
-        "key": "Bob-Strollers"
-    },
-    "Fitbit": {
-        "name": "Fitbit",
-        "description": "these watches track your pace, heartrate, and mileage",
-        "image": "images/watchclipart.png",
-        "key": "Fitbit"
-    }
+    // "Bob-Strollers":
+    // {
+    //     "name": "Bob strollers",
+    //     "description": "high quality strollers built for jogging ",
+    //     "image": "images/strollerclipart.png",
+    //     "key": "Bob-Strollers"
+    // },
+    // "Fitbit": {
+    //     "name": "Fitbit",
+    //     "description": "these watches track your pace, heartrate, and mileage",
+    //     "image": "images/watchclipart.png",
+    //     "key": "Fitbit"
+    // }
 };
 
 
